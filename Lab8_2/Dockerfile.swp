@@ -1,0 +1,3 @@
+FROM busybox
+CMD echo “Hi there. This is my first docker image.”
+CMD echo “ประจักษ์ สายแถม 653380270-3 จักษ์”
